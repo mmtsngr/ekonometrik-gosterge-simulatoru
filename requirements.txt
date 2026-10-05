@@ -1,0 +1,6 @@
+shiny>=1.0
+numpy
+pandas
+matplotlib
+requests
+pytest
